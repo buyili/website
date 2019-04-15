@@ -1,8 +1,8 @@
 <template>
   <div class="hello">
-    <a href="/sh/shadowsocks-start.sh" download="shadowsocks-start.sh">shadowsocks 启动脚本</a>
+    <a href="/website/sh/shadowsocks-start.sh" download="shadowsocks-start.sh">shadowsocks 启动脚本</a>
     <br>
-    <a href="/sh/shadowsocks-install.sh" download="shadowsocks-install.sh">shadowsocks 安装并启动脚本</a>
+    <a href="/website/sh/shadowsocks-install.sh" download="shadowsocks-install.sh">shadowsocks 安装并启动脚本</a>
   </div>
 </template>
 
